@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MyInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3befdf13-9575-4096-a616-eadf46d22492</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57f0aa70-5f6c-4187-86f0-d7c4379bc109</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/Users/nurulazzahra/Documents/test.png'</defaultValue>
+      <description></description>
+      <id>57f0aa70-5f6c-4187-86f0-d7c4379bc109</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>
